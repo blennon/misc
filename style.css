@@ -1,0 +1,97 @@
+.ps-theme-classic md-input-container label:not(.md-container-ignore) {
+  left: 0.5em;
+}
+
+.ps-theme-classic .ps-wrap {
+  max-width: 100%;
+}
+
+.ps-theme-classic .ps-card,
+.ps-theme-classic .ps-echeck {
+  padding-bottom: 1.0em;
+}
+
+.ps-theme-classic .ps-card-name input,
+.ps-theme-classic .ps-card-number input,
+.ps-theme-classic .ps-card-expiry input,
+.ps-theme-classic .ps-card-verification input,
+.ps-theme-classic .ps-email-component input,
+.ps-theme-classic .ps-address-street input,
+.ps-theme-classic .ps-address-city input,
+.ps-theme-classic .ps-address-state input,
+.ps-theme-classic .ps-address-postal input,
+.ps-theme-classic .ps-address-country input {
+  padding: 0.2em 0 0.2em 0.5em;
+  border: solid 1px #c8c8c8;
+  border-width: 1px 1px 1px 1px;
+  border-radius: 2px;
+  background: #fff;
+  max-width: 250px;
+}
+
+.ps-theme-classic .ps-card-name:after {
+  display: inline;
+  margin-left:10px;
+  color: #939393;
+  font-size: 12px;
+  content: "(Enter your name exactly as it appears on the credit card.)";
+}
+
+.ps-theme-classic .ps-card-number:after {
+  display: inline-block;
+  margin-left:10px;
+  width: 150px;
+  height: 30px;
+  background-size: 150px 30px;
+  background-image: url('https://sportspayhq.com/wp-content/uploads/2016/02/logo_full_SP_800.png');
+  content:"";
+}
+
+.ps-theme-classic .ps-card-logo {
+  position: absolute;
+  float: none;
+  margin: 6px 0 0 205px;
+  color: #888;
+}
+
+.ps-theme-classic .ps-content {
+  padding: 0;
+  background: #e8e8e8;
+}
+
+.ps-theme-classic .ps-billing {
+  padding-top: 24px;
+  background: #fff;
+}
+@media screen and (max-width: 600px) {
+  .ps-theme-classic .ps-billing {
+    padding-top: 24px;
+  }
+}
+
+.ps-theme-classic .ps-billing-title {
+  margin-bottom: 0;
+  padding: 0.5em 0 0.9em 0;
+  text-transform: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  color: #686868;
+  border-bottom: none;
+}
+
+.ps-theme-classic .ps-billing-title-card:after,
+.ps-theme-classic .ps-billing-title-echeck:after {
+  font-weight: 500;
+  display: block;
+}
+.ps-theme-classic .ps-billing-title-card:after {
+  content: "This is a card billing description.";
+}
+.ps-theme-classic .ps-billing-title-echeck:after {
+  content: "This is eCheck account holder description.";
+}
+
+
+.ps-theme-classic .ps-powered-logo {
+  display: none;
+}
