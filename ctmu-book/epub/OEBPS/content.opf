@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Mind and Reality: A Gentle Introduction to the CTMU</dc:title>
+    <dc:creator>Claude</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:identifier id="BookId">urn:uuid:c7e2f8a0-b5d4-4e3f-9c1a-8d6e4f2a3b5c</dc:identifier>
+    <dc:description>A comprehensive exploration of the Cognitive-Theoretic Model of the Universe (CTMU) and its connections to Western philosophy, Eastern philosophy, and modern physics.</dc:description>
+    <dc:subject>Philosophy</dc:subject>
+    <dc:subject>Metaphysics</dc:subject>
+    <dc:subject>Physics</dc:subject>
+    <dc:subject>Consciousness</dc:subject>
+    <meta property="dcterms:modified">2025-01-17T00:00:00Z</meta>
+  </metadata>
+
+  <manifest>
+    <item id="style" href="style.css" media-type="text/css"/>
+    <item id="nav" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="title" href="title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part1" href="part1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part2" href="part2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part3" href="part3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part4" href="part4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part5" href="part5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part6" href="part6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part7" href="part7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part8" href="part8.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+
+  <spine toc="ncx">
+    <itemref idref="title"/>
+    <itemref idref="nav"/>
+    <itemref idref="part1"/>
+    <itemref idref="part2"/>
+    <itemref idref="part3"/>
+    <itemref idref="part4"/>
+    <itemref idref="part5"/>
+    <itemref idref="part6"/>
+    <itemref idref="part7"/>
+    <itemref idref="part8"/>
+  </spine>
+</package>
