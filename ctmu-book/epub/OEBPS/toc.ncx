@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c7e2f8a0-b5d4-4e3f-9c1a-8d6e4f2a3b5c"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Mind and Reality: A Gentle Introduction to the CTMU</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="title" playOrder="1">
+      <navLabel><text>Title Page</text></navLabel>
+      <content src="title.xhtml"/>
+    </navPoint>
+    <navPoint id="toc" playOrder="2">
+      <navLabel><text>Table of Contents</text></navLabel>
+      <content src="toc.xhtml"/>
+    </navPoint>
+    <navPoint id="part1" playOrder="3">
+      <navLabel><text>Part I: Foundations</text></navLabel>
+      <content src="part1.xhtml"/>
+      <navPoint id="ch1" playOrder="4">
+        <navLabel><text>Chapter 1: The Greatest Questions</text></navLabel>
+        <content src="part1.xhtml#ch1"/>
+      </navPoint>
+      <navPoint id="ch2" playOrder="5">
+        <navLabel><text>Chapter 2: What Is Metaphysics?</text></navLabel>
+        <content src="part1.xhtml#ch2"/>
+      </navPoint>
+      <navPoint id="ch3" playOrder="6">
+        <navLabel><text>Chapter 3: The Foundations of Inquiry</text></navLabel>
+        <content src="part1.xhtml#ch3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="part2" playOrder="7">
+      <navLabel><text>Part II: Western Philosophy</text></navLabel>
+      <content src="part2.xhtml"/>
+      <navPoint id="ch4" playOrder="8">
+        <navLabel><text>Chapter 4: The Ancient Greeks</text></navLabel>
+        <content src="part2.xhtml#ch1"/>
+      </navPoint>
+      <navPoint id="ch5" playOrder="9">
+        <navLabel><text>Chapter 5: Medieval Philosophy</text></navLabel>
+        <content src="part2.xhtml#ch2"/>
+      </navPoint>
+      <navPoint id="ch6" playOrder="10">
+        <navLabel><text>Chapter 6: Early Modern Philosophy</text></navLabel>
+        <content src="part2.xhtml#ch3"/>
+      </navPoint>
+      <navPoint id="ch7" playOrder="11">
+        <navLabel><text>Chapter 7: German Idealism</text></navLabel>
+        <content src="part2.xhtml#ch4"/>
+      </navPoint>
+      <navPoint id="ch8" playOrder="12">
+        <navLabel><text>Chapter 8: Modern Philosophy</text></navLabel>
+        <content src="part2.xhtml#ch5"/>
+      </navPoint>
+      <navPoint id="ch9" playOrder="13">
+        <navLabel><text>Chapter 9: Themes and Threads</text></navLabel>
+        <content src="part2.xhtml#ch6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="part3" playOrder="14">
+      <navLabel><text>Part III: Eastern Philosophy</text></navLabel>
+      <content src="part3.xhtml"/>
+      <navPoint id="ch10" playOrder="15">
+        <navLabel><text>Chapter 10: The Wisdom of the East</text></navLabel>
+        <content src="part3.xhtml#ch1"/>
+      </navPoint>
+      <navPoint id="ch11" playOrder="16">
+        <navLabel><text>Chapter 11: Hinduism</text></navLabel>
+        <content src="part3.xhtml#ch2"/>
+      </navPoint>
+      <navPoint id="ch12" playOrder="17">
+        <navLabel><text>Chapter 12: Buddhism</text></navLabel>
+        <content src="part3.xhtml#ch3"/>
+      </navPoint>
+      <navPoint id="ch13" playOrder="18">
+        <navLabel><text>Chapter 13: Taoism</text></navLabel>
+        <content src="part3.xhtml#ch4"/>
+      </navPoint>
+      <navPoint id="ch14" playOrder="19">
+        <navLabel><text>Chapter 14: Convergences and Insights</text></navLabel>
+        <content src="part3.xhtml#ch5"/>
+      </navPoint>
+      <navPoint id="ch15" playOrder="20">
+        <navLabel><text>Chapter 15: East and West Together</text></navLabel>
+        <content src="part3.xhtml#ch6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="part4" playOrder="21">
+      <navLabel><text>Part IV: Physics and Modern Science</text></navLabel>
+      <content src="part4.xhtml"/>
+      <navPoint id="ch16" playOrder="22">
+        <navLabel><text>Chapter 16: The Scientific Revolution</text></navLabel>
+        <content src="part4.xhtml#ch1"/>
+      </navPoint>
+      <navPoint id="ch17" playOrder="23">
+        <navLabel><text>Chapter 17: Einstein's Revolution</text></navLabel>
+        <content src="part4.xhtml#ch2"/>
+      </navPoint>
+      <navPoint id="ch18" playOrder="24">
+        <navLabel><text>Chapter 18: Quantum Mechanics</text></navLabel>
+        <content src="part4.xhtml#ch3"/>
+      </navPoint>
+      <navPoint id="ch19" playOrder="25">
+        <navLabel><text>Chapter 19: Information, Computation, and Reality</text></navLabel>
+        <content src="part4.xhtml#ch4"/>
+      </navPoint>
+      <navPoint id="ch20" playOrder="26">
+        <navLabel><text>Chapter 20: Cosmology</text></navLabel>
+        <content src="part4.xhtml#ch5"/>
+      </navPoint>
+      <navPoint id="ch21" playOrder="27">
+        <navLabel><text>Chapter 21: Physics and Metaphysics</text></navLabel>
+        <content src="part4.xhtml#ch6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="part5" playOrder="28">
+      <navLabel><text>Part V: The CTMU</text></navLabel>
+      <content src="part5.xhtml"/>
+      <navPoint id="ch22" playOrder="29">
+        <navLabel><text>Chapter 22: Introducing the CTMU</text></navLabel>
+        <content src="part5.xhtml#ch1"/>
+      </navPoint>
+      <navPoint id="ch23" playOrder="30">
+        <navLabel><text>Chapter 23: Key Concepts</text></navLabel>
+        <content src="part5.xhtml#ch2"/>
+      </navPoint>
+      <navPoint id="ch24" playOrder="31">
+        <navLabel><text>Chapter 24: The Structure of Reality</text></navLabel>
+        <content src="part5.xhtml#ch3"/>
+      </navPoint>
+      <navPoint id="ch25" playOrder="32">
+        <navLabel><text>Chapter 25: Mind and Reality in the CTMU</text></navLabel>
+        <content src="part5.xhtml#ch4"/>
+      </navPoint>
+      <navPoint id="ch26" playOrder="33">
+        <navLabel><text>Chapter 26: The CTMU and Science</text></navLabel>
+        <content src="part5.xhtml#ch5"/>
+      </navPoint>
+      <navPoint id="ch27" playOrder="34">
+        <navLabel><text>Chapter 27: God and the CTMU</text></navLabel>
+        <content src="part5.xhtml#ch6"/>
+      </navPoint>
+      <navPoint id="ch28" playOrder="35">
+        <navLabel><text>Chapter 28: Objections and Responses</text></navLabel>
+        <content src="part5.xhtml#ch7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="part6" playOrder="36">
+      <navLabel><text>Part VI: Synthesis and Integration</text></navLabel>
+      <content src="part6.xhtml"/>
+      <navPoint id="ch29" playOrder="37">
+        <navLabel><text>Chapter 29: The CTMU and Western Philosophy</text></navLabel>
+        <content src="part6.xhtml#ch1"/>
+      </navPoint>
+      <navPoint id="ch30" playOrder="38">
+        <navLabel><text>Chapter 30: The CTMU and Eastern Philosophy</text></navLabel>
+        <content src="part6.xhtml#ch2"/>
+      </navPoint>
+      <navPoint id="ch31" playOrder="39">
+        <navLabel><text>Chapter 31: The CTMU and Physics</text></navLabel>
+        <content src="part6.xhtml#ch3"/>
+      </navPoint>
+      <navPoint id="ch32" playOrder="40">
+        <navLabel><text>Chapter 32: Implications and Applications</text></navLabel>
+        <content src="part6.xhtml#ch4"/>
+      </navPoint>
+      <navPoint id="ch33" playOrder="41">
+        <navLabel><text>Chapter 33: The Future of the CTMU</text></navLabel>
+        <content src="part6.xhtml#ch5"/>
+      </navPoint>
+      <navPoint id="ch34" playOrder="42">
+        <navLabel><text>Chapter 34: Conclusion</text></navLabel>
+        <content src="part6.xhtml#ch6"/>
+      </navPoint>
+      <navPoint id="afterword" playOrder="43">
+        <navLabel><text>Afterword: Further Exploration</text></navLabel>
+        <content src="part6.xhtml#afterword"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
