@@ -20,67 +20,110 @@ This structure respects how understanding actually works—not through single ex
 
 ---
 
-## The Concept Map
+## The Concept Map (Comprehensive: 32 Concepts)
 
-### Orbit 1: Foundations
-*The bedrock distinctions that make thinking possible*
+### Orbit 1: Foundations (5)
+*The primitive operations that make thinking possible*
 
 | Concept | Seed | Growth | Power |
 |---------|------|--------|-------|
-| **Distinction** | Noticing that things can be different | Boundaries create meaning | The act of distinguishing creates reality |
-| **Negation** | "Not" as a concept | Defining by exclusion | Negative space as generative |
+| **Distinction** | Noticing that things can be different | Boundaries create meaning; defining by what something is *not* | The act of distinguishing creates reality |
 | **Relation** | Things connect to other things | Relationships as primary, objects as secondary | Graphs, networks, the relational worldview |
 | **Change** | Things can become different | States and transitions | Processes over snapshots |
+| **Constraint** | Limits exist | Constraints shape possibility; the sonnet needs its form | Limits as generative, not just restrictive |
+| **Time** | Events have order | Sequence matters; some things can't be rushed | Path dependence, irreversibility, the arrow |
 
-### Orbit 2: Patterns
+### Orbit 2: Patterns (6)
 *Recurring structures that appear across domains*
 
 | Concept | Seed | Growth | Power |
 |---------|------|--------|-------|
-| **Feedback** | Outputs become inputs | Positive/negative loops, stability/runaway | Seeing feedback everywhere: habits, markets, arguments |
+| **Feedback** | Outputs become inputs | Positive loops amplify, negative loops stabilize | Seeing feedback everywhere: habits, markets, arguments |
 | **Recursion** | Things containing versions of themselves | Self-reference, fractals, nested structures | Thinking recursively as a problem-solving stance |
-| **Emergence** | Wholes with properties parts lack | Levels of description | When to zoom in vs. out |
-| **Equilibrium** | Resting points | Stable vs. unstable balance | Finding and shifting equilibria |
+| **Emergence** | Wholes with properties parts lack | Levels of description, downward causation | When to zoom in vs. out |
+| **Equilibrium** | Resting points | Stable vs. unstable balance, attractors | Finding and shifting equilibria |
+| **Threshold** | Sometimes a little more changes everything | Tipping points, phase transitions | Recognizing when you're near a threshold |
+| **Selection** | Some things survive, others don't | Variation + selection + retention | Seeing evolutionary dynamics everywhere |
 
-### Orbit 3: Reasoning
-*How to update beliefs and draw conclusions*
+### Orbit 3: Reasoning (6)
+*How to see clearly and update beliefs*
 
 | Concept | Seed | Growth | Power |
 |---------|------|--------|-------|
 | **Inference** | Evidence changes what you believe | Deduction, induction, abduction | Knowing which reasoning mode fits |
-| **Probability** | Degrees of belief | Updating, base rates, independence | Calibrated uncertainty |
+| **Probability** | Degrees of belief | Updating, base rates, independence | Calibrated uncertainty as a way of life |
 | **Causation** | X makes Y happen | Correlation vs. causation, confounders | Causal reasoning as intervention thinking |
-| **Counterfactual** | What would have happened otherwise | Possible worlds | Isolating causes, assigning credit/blame |
+| **Counterfactual** | What would have happened otherwise | Possible worlds, nearest neighbors | Isolating causes, assigning credit and blame |
+| **Signal & Noise** | Some information matters, some doesn't | Filtering, pattern vs. randomness | Extracting signal without overfitting |
+| **Representation** | Maps stand for territories | All models are wrong, some are useful | Knowing what your map captures and what it misses |
 
-### Orbit 4: Agency
+### Orbit 4: Agency (6)
 *How to choose and act in the world*
 
 | Concept | Seed | Growth | Power |
 |---------|------|--------|-------|
-| **Optionality** | Having choices is valuable | Options as asymmetric bets | Preserving and creating options |
-| **Commitment** | Burning options can help | Credibility, Schelling points | Strategic constraint |
-| **Tradeoffs** | You can't have everything | Opportunity cost, Pareto frontiers | Making tradeoffs explicit |
-| **Regret** | Looking back at choices | Regret minimization as decision frame | Integrating with expected value |
+| **Optionality** | Having choices is valuable | Options as asymmetric bets | Preserving and creating options deliberately |
+| **Tradeoffs** | You can't have everything | Opportunity cost, Pareto frontiers | Making tradeoffs explicit rather than implicit |
+| **Reversibility** | Some choices can be undone, others can't | One-way doors vs. two-way doors | Calibrating caution to reversibility |
+| **Commitment** | Sometimes burning options helps | Credibility, Schelling points, skin in the game | Strategic self-constraint |
+| **Defaults** | What happens if you do nothing | The path of least resistance | Designing defaults; resisting bad ones |
+| **Attention** | Where you look determines what you see | Attention as scarce resource | Directing attention deliberately |
 
-### Orbit 5: Systems
-*How parts compose into wholes*
+### Orbit 5: Systems (5)
+*How parts compose into wholes that behave*
 
 | Concept | Seed | Growth | Power |
 |---------|------|--------|-------|
-| **Stocks & Flows** | Bathtubs: levels and rates | Accumulation, delays | Seeing systems as plumbing |
-| **Leverage** | Some actions matter more | High-leverage interventions | Finding the leverage points |
-| **Unintended Consequences** | Actions ripple | Second-order effects | Thinking in terms of system response |
-| **Adaptation** | Systems respond to pressure | Goodhart's law, Campbell's law | Designing for adaptive systems |
+| **Stocks & Flows** | Bathtubs fill and drain | Accumulation, delays, oscillation | Seeing systems as plumbing |
+| **Incentives** | Agents respond to payoffs | Misaligned incentives explain most dysfunction | Asking "what's rewarded?" before "what's wrong?" |
+| **Leverage** | Some actions matter more | High-leverage interventions, Pareto | Finding where to push |
+| **Adaptation** | Systems respond to pressure | Goodhart's law, cobra effects, immune response | Designing for systems that learn |
+| **Scale** | Size changes everything | What works small fails large; surface area vs. volume | Knowing what scales and what doesn't |
 
-### Orbit 6: Meta
+### Orbit 6: Meta (4)
 *Thinking about thinking*
 
 | Concept | Seed | Growth | Power |
 |---------|------|--------|-------|
-| **Abstraction** | Ignoring details that don't matter | Levels of abstraction | Choosing the right level |
-| **Analogy** | This is like that | Structure mapping | Analogical reasoning as discovery |
-| **Compression** | Saying more with less | Models as compression | Elegance as a guide |
-| **Legibility** | Making things readable | What's lost in legibility | When to resist legibility |
+| **Abstraction** | Ignoring details that don't matter | Levels of abstraction, leaky abstractions | Choosing the right level for the task |
+| **Analogy** | This is like that | Structure mapping, surface vs. deep similarity | Analogical reasoning as discovery engine |
+| **Inversion** | Think backwards | Via negativa, "what would guarantee failure?" | Solving problems by avoiding their opposites |
+| **Legibility** | Making things readable | What's lost in simplification | When to embrace illegibility |
+
+---
+
+## Concept Inventory Summary
+
+**32 concepts across 6 orbits:**
+
+| Orbit | Concepts |
+|-------|----------|
+| **Foundations** | Distinction, Relation, Change, Constraint, Time |
+| **Patterns** | Feedback, Recursion, Emergence, Equilibrium, Threshold, Selection |
+| **Reasoning** | Inference, Probability, Causation, Counterfactual, Signal & Noise, Representation |
+| **Agency** | Optionality, Tradeoffs, Reversibility, Commitment, Defaults, Attention |
+| **Systems** | Stocks & Flows, Incentives, Leverage, Adaptation, Scale |
+| **Meta** | Abstraction, Analogy, Inversion, Legibility |
+
+**What was cut and why:**
+- *Negation* → folded into Distinction (defining by what something is not)
+- *Regret* → derivative of Counterfactual + Tradeoffs; doesn't need own chapter
+- *Unintended Consequences* → emerges from Feedback + Incentives + Adaptation
+- *Compression* → folded into Abstraction (compression is how abstraction works)
+
+**What was added and why:**
+- *Constraint* → generative limits; essential for creativity and strategy
+- *Time* → sequence, irreversibility, path dependence; underlies much of agency
+- *Threshold* → nonlinearity, tipping points; explains discontinuous change
+- *Selection* → evolutionary lens; explains what persists across domains
+- *Signal & Noise* → everyday epistemic skill; complements Probability
+- *Representation* → maps/models; essential for avoiding reification
+- *Reversibility* → one-way vs. two-way doors; reshapes how to decide
+- *Defaults* → most powerful force in behavior; often invisible
+- *Attention* → the master resource; shapes everything downstream
+- *Incentives* → explains behavior better than intentions
+- *Scale* → size changes everything; common failure mode
+- *Inversion* → Munger's favorite; surprisingly powerful
 
 ---
 
@@ -121,59 +164,183 @@ Now they wield it.
 
 ## Possible Chapter Flow (Draft)
 
-### Part I: Seeing
-*Chapters 1-8 — First orbit through foundations and patterns*
-- Waking up to distinctions
-- The power of "not"
-- Everything is connected
-- Feedback: the loop that runs the world
-- Parts and wholes
-- Change as the default
+*48 chapters across 6 parts. Each part introduces concepts at Seed level, then revisits earlier concepts at Growth/Power level.*
 
-### Part II: Thinking
-*Chapters 9-16 — Reasoning, with callbacks to Part I*
-- What evidence does to belief
-- Living with uncertainty
-- Cause and effect (harder than you think)
-- The worlds that didn't happen
-- Feedback revisited: reasoning loops
-- When thinking defeats itself
+### Part I: Foundations
+*Chapters 1-8 — The ground floor of thought*
 
-### Part III: Choosing
-*Chapters 17-24 — Agency, with callbacks to Parts I & II*
-- The value of having options
-- When to burn your boats
-- Tradeoffs all the way down
-- Regret and its uses
-- Commitment revisited: credibility
-- Deciding under uncertainty
+| Ch | Primary Concept (Seed) | Spiral Return |
+|----|------------------------|---------------|
+| 1 | **Distinction** — Noticing that this is not that | — |
+| 2 | **Relation** — Everything connects | — |
+| 3 | **Change** — Nothing stays the same | — |
+| 4 | **Constraint** — Limits exist | — |
+| 5 | **Time** — Order matters | — |
+| 6 | **Feedback** (Seed) — Outputs become inputs | — |
+| 7 | **Emergence** (Seed) — Wholes and parts | — |
+| 8 | *Interlude: Connecting the foundations* | Distinction + Relation + Change |
 
-### Part IV: Building
-*Chapters 25-32 — Systems, with everything so far*
-- Stocks, flows, and bathtubs
-- Finding the leverage point
-- Every action has a reaction
-- Systems that learn
-- Emergence revisited: when to zoom out
-- Designing for adaptation
+### Part II: Patterns
+*Chapters 9-16 — Structures that recur everywhere*
 
-### Part V: Seeing Again
-*Chapters 33-40 — Meta, and the spiral completes*
-- The right level of abstraction
-- Reasoning by analogy
-- Compression and elegance
-- What's lost in clarity
-- Concepts about concepts
-- The mind you've built
+| Ch | Primary Concept (Seed) | Spiral Return |
+|----|------------------------|---------------|
+| 9 | **Feedback** (Growth) — Amplifying vs. stabilizing | Constraint (Growth) |
+| 10 | **Recursion** — The strange loop | Relation (Growth) |
+| 11 | **Emergence** (Growth) — Levels of description | — |
+| 12 | **Equilibrium** — Resting points | Feedback, Change |
+| 13 | **Threshold** — When more becomes different | Change (Growth) |
+| 14 | **Selection** — What survives | Constraint, Time |
+| 15 | **Adaptation** (Seed) — Systems respond | Selection, Feedback |
+| 16 | *Interlude: Pattern recognition as a skill* | All of Orbit 2 |
+
+### Part III: Reasoning
+*Chapters 17-26 — How to see clearly*
+
+| Ch | Primary Concept (Seed) | Spiral Return |
+|----|------------------------|---------------|
+| 17 | **Inference** — Evidence moves belief | Distinction (Power) |
+| 18 | **Probability** — Degrees of confidence | — |
+| 19 | **Causation** — What makes what happen | Relation (Power), Feedback |
+| 20 | **Counterfactual** — The worlds that didn't happen | Time (Growth) |
+| 21 | **Signal & Noise** — What matters in the mess | Distinction, Selection |
+| 22 | **Representation** — Maps and territories | Emergence (Power) |
+| 23 | **Feedback** (Power) — Reasoning about loops | Causation |
+| 24 | **Threshold** (Growth) — Recognizing tipping points | Probability |
+| 25 | **Selection** (Growth) — Evolutionary epistemology | Inference |
+| 26 | *Interlude: The well-calibrated mind* | Probability, Signal & Noise |
+
+### Part IV: Agency
+*Chapters 27-36 — How to choose and act*
+
+| Ch | Primary Concept (Seed) | Spiral Return |
+|----|------------------------|---------------|
+| 27 | **Optionality** — The value of choices | Constraint (Power) |
+| 28 | **Tradeoffs** — You can't have everything | Distinction, Relation |
+| 29 | **Reversibility** — One-way and two-way doors | Time (Power), Threshold |
+| 30 | **Commitment** — When burning boats helps | Optionality, Equilibrium |
+| 31 | **Defaults** — What happens if you do nothing | Equilibrium (Growth) |
+| 32 | **Attention** — The master resource | Selection (Power), Constraint |
+| 33 | **Counterfactual** (Growth) — Learning from unchosen paths | Causation (Growth) |
+| 34 | **Incentives** (Seed) — Why people do what they do | Feedback, Adaptation |
+| 35 | **Probability** (Growth) — Deciding under uncertainty | Tradeoffs, Optionality |
+| 36 | *Interlude: The prepared decider* | Agency synthesis |
+
+### Part V: Systems
+*Chapters 37-44 — How wholes behave*
+
+| Ch | Primary Concept (Seed) | Spiral Return |
+|----|------------------------|---------------|
+| 37 | **Stocks & Flows** — Bathtubs and plumbing | Change (Power), Time |
+| 38 | **Incentives** (Growth) — Misalignment explains everything | Feedback (revisited) |
+| 39 | **Leverage** — Where to push | Threshold (Power), Causation |
+| 40 | **Adaptation** (Growth) — Goodhart's law and friends | Selection, Incentives |
+| 41 | **Scale** — Size changes everything | Emergence, Threshold |
+| 42 | **Emergence** (Power) — When to zoom out | Abstraction (preview) |
+| 43 | **Equilibrium** (Power) — Shifting stable states | Leverage, Feedback |
+| 44 | *Interlude: Thinking in systems* | Full systems synthesis |
+
+### Part VI: Meta
+*Chapters 45-48 — Thinking about thinking*
+
+| Ch | Primary Concept | Spiral Return |
+|----|-----------------|---------------|
+| 45 | **Abstraction** — The right level of detail | Emergence, Representation |
+| 46 | **Analogy** — Structure mapping | Relation (Power), Recursion |
+| 47 | **Inversion** — Thinking backwards | Counterfactual (Power), Selection |
+| 48 | **Legibility** — What's lost in clarity | Representation, Constraint |
+
+### Epilogue
+*The mind you've built* — How the 32 concepts compose into a worldview
+
+---
+
+## Concept Dependencies
+
+*How concepts build on each other. Arrows show "requires understanding of."*
+
+```
+FOUNDATIONS (no dependencies—these are primitives)
+    Distinction ─────────────────────────────────────────┐
+    Relation ────────────────────────────────────────────┤
+    Change ──────────────────────────────────────────────┤
+    Constraint ──────────────────────────────────────────┤
+    Time ────────────────────────────────────────────────┘
+         │
+         ▼
+PATTERNS (build on foundations)
+    Feedback ←── Change, Relation
+    Recursion ←── Relation, Distinction
+    Emergence ←── Relation, Distinction
+    Equilibrium ←── Feedback, Change
+    Threshold ←── Change, Constraint
+    Selection ←── Change, Time, Constraint
+         │
+         ▼
+REASONING (build on foundations + patterns)
+    Inference ←── Distinction, Relation
+    Probability ←── Distinction
+    Causation ←── Relation, Time, Feedback
+    Counterfactual ←── Time, Causation
+    Signal & Noise ←── Distinction, Selection
+    Representation ←── Relation, Emergence
+         │
+         ▼
+AGENCY (build on foundations + patterns + reasoning)
+    Optionality ←── Constraint, Time, Probability
+    Tradeoffs ←── Distinction, Constraint
+    Reversibility ←── Time, Threshold
+    Commitment ←── Optionality, Equilibrium
+    Defaults ←── Equilibrium, Feedback
+    Attention ←── Selection, Constraint, Tradeoffs
+         │
+         ▼
+SYSTEMS (build on all previous)
+    Stocks & Flows ←── Change, Time, Feedback
+    Incentives ←── Feedback, Selection, Agency concepts
+    Leverage ←── Causation, Threshold
+    Adaptation ←── Selection, Feedback, Incentives
+    Scale ←── Emergence, Threshold
+         │
+         ▼
+META (synthesize everything)
+    Abstraction ←── Emergence, Representation, Distinction
+    Analogy ←── Relation, Recursion, Representation
+    Inversion ←── Counterfactual, Selection
+    Legibility ←── Representation, Constraint, Emergence
+```
+
+**Key insight:** The later orbits aren't just "harder"—they literally require earlier concepts to make sense. You can't understand Incentives without Feedback. You can't grasp Reversibility without Time and Threshold. The spiral structure lets these dependencies develop naturally.
+
+---
+
+## Concept Clusters
+
+*Some concepts form natural clusters that illuminate each other:*
+
+**The Loop Cluster:** Feedback → Equilibrium → Adaptation → Incentives
+*How systems stabilize, destabilize, and evolve*
+
+**The Survival Cluster:** Selection → Adaptation → Scale → Threshold
+*What persists and why*
+
+**The Decision Cluster:** Optionality → Tradeoffs → Reversibility → Commitment
+*How to choose wisely*
+
+**The Clarity Cluster:** Signal & Noise → Representation → Abstraction → Legibility
+*How to see without distortion*
+
+**The Causation Cluster:** Causation → Counterfactual → Leverage → Incentives
+*How to understand and shape outcomes*
 
 ---
 
 ## Open Questions
 
-- **Title?** Working ideas: "Concept by Concept", "The Prepared Mind", "Building the Toolkit", "Mental Foundations"
-- **Length?** 40 chapters × ~3000 words = ~120,000 words. Could compress.
+- **Title?** Working ideas: "Concept by Concept", "The Prepared Mind", "Building the Toolkit", "Mental Foundations", "The Concept Spiral"
+- **Length?** 48 chapters × ~2500 words = ~120,000 words. Could compress.
 - **Exercises?** Light prompts for reflection, or pure exposition?
-- **Illustrations?** Diagrams could help—especially for feedback, emergence, systems.
+- **Illustrations?** Diagrams could help—especially for feedback, emergence, systems, dependencies.
 
 ---
 
