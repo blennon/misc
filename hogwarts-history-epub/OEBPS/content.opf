@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="BookId">urn:uuid:hogwarts-history-bagshot-1947</dc:identifier>
+    <dc:title>Hogwarts: A History</dc:title>
+    <dc:creator>Bathilda Bagshot</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:publisher>Little Red Books</dc:publisher>
+    <dc:date>1947</dc:date>
+    <dc:description>An Unabridged Account of Hogwarts School of Witchcraft and Wizardry, from its founding to the present day.</dc:description>
+    <dc:subject>Magical History</dc:subject>
+    <dc:subject>Hogwarts</dc:subject>
+    <dc:subject>Education</dc:subject>
+    <meta property="dcterms:modified">2026-01-18T00:00:00Z</meta>
+  </metadata>
+
+  <manifest>
+    <item id="styles" href="styles.css" media-type="text/css"/>
+    <item id="nav" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="title" href="title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preface" href="preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book1" href="book1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch01" href="chapter01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch02" href="chapter02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch03" href="chapter03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch04" href="chapter04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch05" href="chapter05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch06" href="chapter06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch07" href="chapter07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch08" href="chapter08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch09" href="chapter09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2" href="book2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch10" href="chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch11" href="chapter11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch12" href="chapter12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch13" href="chapter13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch14" href="chapter14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch15" href="chapter15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch16" href="chapter16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch17" href="chapter17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch18" href="chapter18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch19" href="chapter19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3" href="book3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch20" href="chapter20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch21" href="chapter21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch22" href="chapter22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch23" href="chapter23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch24" href="chapter24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch25" href="chapter25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch26" href="chapter26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch27" href="chapter27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch28" href="chapter28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book4" href="book4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch29" href="chapter29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch30" href="chapter30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch31" href="chapter31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch32" href="chapter32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch33" href="chapter33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch34" href="chapter34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch35" href="chapter35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch36" href="chapter36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch37" href="chapter37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendices" href="appendices.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+
+  <spine>
+    <itemref idref="title"/>
+    <itemref idref="nav"/>
+    <itemref idref="preface"/>
+    <itemref idref="book1"/>
+    <itemref idref="ch01"/>
+    <itemref idref="ch02"/>
+    <itemref idref="ch03"/>
+    <itemref idref="ch04"/>
+    <itemref idref="ch05"/>
+    <itemref idref="ch06"/>
+    <itemref idref="ch07"/>
+    <itemref idref="ch08"/>
+    <itemref idref="ch09"/>
+    <itemref idref="book2"/>
+    <itemref idref="ch10"/>
+    <itemref idref="ch11"/>
+    <itemref idref="ch12"/>
+    <itemref idref="ch13"/>
+    <itemref idref="ch14"/>
+    <itemref idref="ch15"/>
+    <itemref idref="ch16"/>
+    <itemref idref="ch17"/>
+    <itemref idref="ch18"/>
+    <itemref idref="ch19"/>
+    <itemref idref="book3"/>
+    <itemref idref="ch20"/>
+    <itemref idref="ch21"/>
+    <itemref idref="ch22"/>
+    <itemref idref="ch23"/>
+    <itemref idref="ch24"/>
+    <itemref idref="ch25"/>
+    <itemref idref="ch26"/>
+    <itemref idref="ch27"/>
+    <itemref idref="ch28"/>
+    <itemref idref="book4"/>
+    <itemref idref="ch29"/>
+    <itemref idref="ch30"/>
+    <itemref idref="ch31"/>
+    <itemref idref="ch32"/>
+    <itemref idref="ch33"/>
+    <itemref idref="ch34"/>
+    <itemref idref="ch35"/>
+    <itemref idref="ch36"/>
+    <itemref idref="ch37"/>
+    <itemref idref="appendices"/>
+  </spine>
+</package>

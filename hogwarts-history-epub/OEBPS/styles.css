@@ -1,0 +1,168 @@
+/* Hogwarts: A History - EPUB Stylesheet */
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  margin: 5%;
+  text-align: justify;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+}
+
+h2 {
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-weight: normal;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+p {
+  text-indent: 1.5em;
+  margin: 0;
+}
+
+p.first, p.noindent {
+  text-indent: 0;
+}
+
+p.center {
+  text-align: center;
+  text-indent: 0;
+}
+
+blockquote {
+  margin: 1em 2em;
+  font-style: italic;
+}
+
+.title-page {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.title-page h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+.title-page .subtitle {
+  font-size: 1.2em;
+  font-style: italic;
+  margin-bottom: 2em;
+}
+
+.title-page .author {
+  font-size: 1.3em;
+  margin-top: 2em;
+}
+
+.dedication {
+  text-align: center;
+  margin-top: 30%;
+  font-style: italic;
+}
+
+.chapter-number {
+  text-align: center;
+  font-size: 0.9em;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+}
+
+.ornament {
+  text-align: center;
+  margin: 2em 0;
+  font-size: 1.5em;
+}
+
+.footnote {
+  font-size: 0.85em;
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #ccc;
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.epigraph {
+  margin: 2em 3em;
+  font-style: italic;
+  text-align: right;
+}
+
+.epigraph .attribution {
+  margin-top: 0.5em;
+  font-style: normal;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #999;
+  margin: 2em auto;
+  width: 30%;
+}
+
+.toc {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.toc li {
+  margin: 0.5em 0;
+}
+
+.toc .book-title {
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.appendix-title {
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-variant: small-caps;
+}
+
+table {
+  margin: 1em auto;
+  border-collapse: collapse;
+}
+
+table td, table th {
+  padding: 0.5em 1em;
+  border: 1px solid #ccc;
+}
+
+table th {
+  background-color: #f5f5f5;
+}
