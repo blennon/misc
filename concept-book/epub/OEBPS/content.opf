@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="BookId">urn:uuid:concept-book-2024</dc:identifier>
+    <dc:title>The Prepared Mind</dc:title>
+    <dc:creator>Anonymous</dc:creator>
+    <dc:language>en</dc:language>
+    <meta property="dcterms:modified">2024-01-01T00:00:00Z</meta>
+  </metadata>
+  <manifest>
+    <item id="css" href="styles.css" media-type="text/css"/>
+    <item id="nav" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="title" href="chapters/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="intro" href="chapters/introduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part1" href="chapters/part1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch01" href="chapters/ch01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch02" href="chapters/ch02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch03" href="chapters/ch03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch04" href="chapters/ch04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch05" href="chapters/ch05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch06" href="chapters/ch06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch07" href="chapters/ch07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch08" href="chapters/ch08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part2" href="chapters/part2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch09" href="chapters/ch09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch10" href="chapters/ch10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch11" href="chapters/ch11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch12" href="chapters/ch12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch13" href="chapters/ch13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch14" href="chapters/ch14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch15" href="chapters/ch15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch16" href="chapters/ch16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part3" href="chapters/part3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch17" href="chapters/ch17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch18" href="chapters/ch18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch19" href="chapters/ch19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch20" href="chapters/ch20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch21" href="chapters/ch21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch22" href="chapters/ch22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch23" href="chapters/ch23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch24" href="chapters/ch24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch25" href="chapters/ch25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch26" href="chapters/ch26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part4" href="chapters/part4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch27" href="chapters/ch27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch28" href="chapters/ch28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch29" href="chapters/ch29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch30" href="chapters/ch30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch31" href="chapters/ch31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch32" href="chapters/ch32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch33" href="chapters/ch33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch34" href="chapters/ch34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch35" href="chapters/ch35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch36" href="chapters/ch36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part5" href="chapters/part5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch37" href="chapters/ch37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch38" href="chapters/ch38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch39" href="chapters/ch39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch40" href="chapters/ch40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch41" href="chapters/ch41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch42" href="chapters/ch42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch43" href="chapters/ch43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch44" href="chapters/ch44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part6" href="chapters/part6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch45" href="chapters/ch45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch46" href="chapters/ch46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch47" href="chapters/ch47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch48" href="chapters/ch48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epilogue" href="chapters/epilogue.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="title"/>
+    <itemref idref="nav"/>
+    <itemref idref="intro"/>
+    <itemref idref="part1"/>
+    <itemref idref="ch01"/>
+    <itemref idref="ch02"/>
+    <itemref idref="ch03"/>
+    <itemref idref="ch04"/>
+    <itemref idref="ch05"/>
+    <itemref idref="ch06"/>
+    <itemref idref="ch07"/>
+    <itemref idref="ch08"/>
+    <itemref idref="part2"/>
+    <itemref idref="ch09"/>
+    <itemref idref="ch10"/>
+    <itemref idref="ch11"/>
+    <itemref idref="ch12"/>
+    <itemref idref="ch13"/>
+    <itemref idref="ch14"/>
+    <itemref idref="ch15"/>
+    <itemref idref="ch16"/>
+    <itemref idref="part3"/>
+    <itemref idref="ch17"/>
+    <itemref idref="ch18"/>
+    <itemref idref="ch19"/>
+    <itemref idref="ch20"/>
+    <itemref idref="ch21"/>
+    <itemref idref="ch22"/>
+    <itemref idref="ch23"/>
+    <itemref idref="ch24"/>
+    <itemref idref="ch25"/>
+    <itemref idref="ch26"/>
+    <itemref idref="part4"/>
+    <itemref idref="ch27"/>
+    <itemref idref="ch28"/>
+    <itemref idref="ch29"/>
+    <itemref idref="ch30"/>
+    <itemref idref="ch31"/>
+    <itemref idref="ch32"/>
+    <itemref idref="ch33"/>
+    <itemref idref="ch34"/>
+    <itemref idref="ch35"/>
+    <itemref idref="ch36"/>
+    <itemref idref="part5"/>
+    <itemref idref="ch37"/>
+    <itemref idref="ch38"/>
+    <itemref idref="ch39"/>
+    <itemref idref="ch40"/>
+    <itemref idref="ch41"/>
+    <itemref idref="ch42"/>
+    <itemref idref="ch43"/>
+    <itemref idref="ch44"/>
+    <itemref idref="part6"/>
+    <itemref idref="ch45"/>
+    <itemref idref="ch46"/>
+    <itemref idref="ch47"/>
+    <itemref idref="ch48"/>
+    <itemref idref="epilogue"/>
+  </spine>
+</package>
